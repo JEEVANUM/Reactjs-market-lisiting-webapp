@@ -1,5 +1,7 @@
 ## This is a Market Place listing web application in which the Frontend of the application is built using React-Js.
 
+## Snapshots
+
 ## Available Scripts
 
 In the project directory, you can run:
