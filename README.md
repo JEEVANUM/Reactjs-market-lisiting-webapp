@@ -2,6 +2,7 @@
 
 ## Snapshots
 <img src="mp1.png">
+<img src="mp2.png">
 
 ## Available Scripts
 
